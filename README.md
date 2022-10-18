@@ -8,13 +8,11 @@
 >> And learning 2 more (Japanese and French)
 >	
 
-<code> 
-<p>I like doing networks,</p>
-<p>coding discord bots,</p>
-<p>developing java plugins (for minecraft)</p>
-<p>& managing MySQL and SQLite</p>
-</code>
 
+<code> <p>I like doing networks,</p></code> 
+<code> <p>coding discord bots,</p></code> 
+<code> <p>developing java plugins (for minecraft)</p></code> 
+<code> <p>& managing MySQL and SQLite</p></code> 
 
 
   

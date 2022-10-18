@@ -26,10 +26,10 @@ and is going really good
 NESOP Network logo designer [KomradeFMX](https://github.com/KomradeFMX)
 
 ## Discord
-  <p align="centre>
-    <img src="https://cdn.discordapp.com/attachments/927690026614157342/1031939426818994257/NotLewdDevelopment.png">
-  </p>
-[Discord](https://discord.gg/n5yNavRvrP)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/927690026614157342/1031939426818994257/NotLewdDevelopment.png">
+</p>
+Official discord [Discord](https://discord.gg/n5yNavRvrP)
   
 
 

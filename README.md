@@ -7,7 +7,6 @@
 >
 >> And learning 2 more (Japanese and French)
 >
-> I love java programing
 
 
 

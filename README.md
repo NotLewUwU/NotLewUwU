@@ -24,10 +24,8 @@
 This network is still in progress
 and is going really good
 
-Logo designer
-<p src="https://github.com/KomradeFMX">
-  KomradeFMX
-</p> 
+
+  Logo designer [https://github.com/KomradeFMX]KomradeFMX
 
   
 <p align="center">

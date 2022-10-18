@@ -23,6 +23,7 @@
 
 <p>This network is still in progress
 and is going really good</p>
+
 NESOP Network logo designer [KomradeFMX](https://github.com/KomradeFMX)
 
 ## Discord

@@ -24,6 +24,11 @@
 This network is still in progress
 and is going really good
 
+Logo designer
+<p src="https://github.com/KomradeFMX">
+  KomradeFMX
+</p> 
+
   
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/927690026614157342/1031918827409244270/bar.png">

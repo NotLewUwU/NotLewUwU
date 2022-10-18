@@ -16,6 +16,13 @@
 <p><code> developing java plugins (for minecraft)</code></p> 
 <p><code> & managing MySQL and SQLite</code></p>
 
+## Currently managing NEOSP Network
+<p>
+  <img src="https://cdn.discordapp.com/attachments/927690026614157342/1031924597299347567/neosp.png">
+</p>
+
+This network is still in progress
+but is going really good  
 
   
 <p align="center">

@@ -21,9 +21,9 @@
   <img src="https://cdn.discordapp.com/attachments/927690026614157342/1031924597299347567/neosp.png">
 </p>
 
-This network is still in progress
-and is going really good
-<p>NESOP Network logo designer [KomradeFMX](https://github.com/KomradeFMX)</p>
+<p>This network is still in progress
+and is going really good</p>
+NESOP Network logo designer [KomradeFMX](https://github.com/KomradeFMX)
 
 ## Discord
 <p align="center">

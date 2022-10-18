@@ -23,6 +23,7 @@
 
 This network is still in progress
 and is going really good
+NESOP Network logo designer [KomradeFMX](https://github.com/KomradeFMX)
 
 ## Discord
   <p align="centre>
@@ -31,8 +32,6 @@ and is going really good
 [Discord](https://discord.gg/n5yNavRvrP)
   
 
-
-NESOP Network logo designer [KomradeFMX](https://github.com/KomradeFMX)
 
   
 <p align="center">

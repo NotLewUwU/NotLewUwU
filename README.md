@@ -6,9 +6,9 @@
 >    - Spanish and English
 >
 >> And learning 2 more (Japanese and French)
->	
+>	ㅤ
 
-
+ㅤ
 <p><code> I like doing networks,</code></p>
 <p><code> coding discord bots,</code></p> 
 <p><code> developing java plugins (for minecraft)</code></p> 

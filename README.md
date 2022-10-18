@@ -24,6 +24,13 @@
 This network is still in progress
 and is going really good
 
+## Discord
+  <p align="centre>
+    <img src="https://cdn.discordapp.com/attachments/927690026614157342/1031939426818994257/NotLewdDevelopment.png">
+  </p>
+[Discord](https://discord.gg/n5yNavRvrP)
+  
+
 
 NESOP Network logo designer [KomradeFMX](https://github.com/KomradeFMX)
 

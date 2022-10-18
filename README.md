@@ -21,8 +21,10 @@
   <img src="https://cdn.discordapp.com/attachments/927690026614157342/1031924597299347567/neosp.png">
 </p>
 
+<p aling="center">
 This network is still in progress
-but is going really good  
+but is going really good
+</p>
 
   
 <p align="center">

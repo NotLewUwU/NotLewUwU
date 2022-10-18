@@ -8,7 +8,6 @@
 >> <p>  </p>
 >> And learning 2 more (Japanese and French)
 >> <p>  </p>
->
 > <p>  </p>
 
 ㅤ

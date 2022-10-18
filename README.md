@@ -17,7 +17,7 @@
 <p><code> & managing MySQL and SQLite</code></p>
 
 ## Currently managing NEOSP Network
-<p>
+<p align="center">
   <img src="https://cdn.discordapp.com/attachments/927690026614157342/1031924597299347567/neosp.png">
 </p>
 

@@ -11,7 +11,7 @@
 > <p>  </p>
 
 ㅤ
-<p><code> I like doing networks,</code></p>
+<p><code> I like doing minecraft networks,</code></p>
 <p><code> coding discord bots,</code></p> 
 <p><code> developing java plugins (for minecraft)</code></p> 
 <p><code> & managing MySQL and SQLite</code></p>

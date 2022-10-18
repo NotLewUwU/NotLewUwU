@@ -6,7 +6,12 @@
 >    - Spanish and English
 >
 >> And learning 2 more (Japanese and French)
->
+>	
+
+``I like doing networks,``
+``coding discord bots,``
+``developing java plugins (for minecraft)``
+``& managing MySQL and SQLite``
 
 
 

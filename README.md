@@ -25,7 +25,7 @@ This network is still in progress
 and is going really good
 
 
-  Logo designer [KomradeFMX](https://github.com/KomradeFMX)
+NESOP Network logo designer [KomradeFMX](https://github.com/KomradeFMX)
 
   
 <p align="center">

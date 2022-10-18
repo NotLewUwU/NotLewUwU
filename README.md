@@ -9,10 +9,10 @@
 >	
 
 
-<code> <p>I like doing networks,</p></code> 
-<code> <p>coding discord bots,</p></code> 
-<code> <p>developing java plugins (for minecraft)</p></code> 
-<code> <p>& managing MySQL and SQLite</p></code> 
+<code> I like doing networks,</code> 
+<code> coding discord bots,</code> 
+<code> developing java plugins (for minecraft)</code> 
+<code> & managing MySQL and SQLite</code> 
 
 
   
